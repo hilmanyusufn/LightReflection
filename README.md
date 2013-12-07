@@ -1,4 +1,4 @@
-# classrecipe-template
+# LightReflection
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
@@ -6,24 +6,24 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://acehterkini.com/wp-content/uploads/2013/07/182826_anak-sd-membaca-_663_382.jpg)
 ---
 #Scale
 1 classroom (~30)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+In this activity, students make an image about light reflection and presentation for others.
 
 
 ---
 #Educational Effect
-* Search information and Remixing
+* Search information and Imaging
 
 skill
 
 * Presentation Skill
-* deep Knowledge for own country
+* deep Knowledge for The Law of Light Reflection
 
 ---
 #Item/Material/System
